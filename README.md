@@ -1,1 +1,1 @@
-# -Trabalhando-Aplica-es-Serverless-na-Azure
+# Trabalhando-Aplica-es-Serverless-na-Azure
